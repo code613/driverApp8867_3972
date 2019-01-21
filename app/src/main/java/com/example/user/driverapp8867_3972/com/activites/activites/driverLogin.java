@@ -1,4 +1,4 @@
-package com.example.user.driverapp8867_3972;
+package com.example.user.driverapp8867_3972.com.activites.activites;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -28,6 +28,8 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.user.driverapp8867_3972.R;
 
 import java.util.ArrayList;
 import java.util.List;
